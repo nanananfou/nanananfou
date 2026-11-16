@@ -2,8 +2,8 @@
 
 # nanananfou
 
-**嵌入式系统 · 桌面应用 · 软硬件联调**  
-**Embedded systems · Desktop applications · Hardware–software integration**
+**嵌入式系统 · Qt 桌面应用 · 微信小程序**  
+**Embedded systems · Qt desktop apps · WeChat Mini Programs**
 
 [中文介绍](#中文) · [English profile](#english)
 
@@ -19,6 +19,7 @@
 
 - **嵌入式控制** — STM32、ESP32、C、MicroPython；外设接口、通信协议与控制状态机。
 - **桌面工具** — Qt、C++、CMake；任务编排、设备配置与故障诊断。
+- **微信小程序** — 页面开发、交互流程与接口联调。
 - **边缘视觉** — K230、CanMV；图像观测与串口联动。
 - **工程验证** — 独立构建、分层测试、硬件验收与交接文档。
 
@@ -34,6 +35,7 @@ I work on turning hardware–software prototypes into systems that others can re
 
 - **Embedded control** — STM32, ESP32, C, and MicroPython; peripheral interfaces, protocols, and state machines.
 - **Desktop tooling** — Qt, C++, and CMake; task orchestration, device configuration, and diagnostics.
+- **WeChat Mini Programs** — Page development, interaction flows, and API integration.
 - **Edge vision** — K230 and CanMV; visual observations and serial integration.
 - **Engineering verification** — Independent builds, layered tests, hardware acceptance, and handover documentation.
 
